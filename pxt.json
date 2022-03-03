@@ -2,7 +2,8 @@
     "name": "ripoffmario",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "ripoffmario": "github:manny105/ripoffmario#ba613baad2ba43e18a51f4602bd5d1dd3b15b94b"
     },
     "files": [
         "main.blocks",
